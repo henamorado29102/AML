@@ -1,3 +1,3 @@
-x = 10
-x += int('11')
-print(x)
+
+print("This is the first statement")
+print("Hello World!")
